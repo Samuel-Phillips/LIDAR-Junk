@@ -1,4 +1,4 @@
-# Various LIDAR-data-related stuff
+# LIDAR-Junk
 
 Note that data is required for this stuff to work. Currently, scripts take
 the file to operate upon as their argument. I'm running it on some Loudoun
