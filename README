@@ -1,0 +1,24 @@
+These data are demonstration topographic lidar data for the FullAnalyze 
+software. 
+
+Acknoledgements:
+
+	The GIS Draix is deeply thanked for providing the data, and INSU is 
+	thanked for its support to GIS Draix through the ORE program. 
+	
+Getting started with the data:
+
+	See FullAnalyze user guide on 
+	http://code.google.com/p/fullanalyze/wiki/UserGuide
+
+
+FullAnalyze:
+
+	FullAnalyze is a free software for handling, visualizing and 
+	processing lidar data (waveforms and point clouds), released under 
+	the LGPL license.
+	
+	http://fullanalyze.sourceforge.net
+	
+
+
