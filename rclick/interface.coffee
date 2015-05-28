@@ -1,0 +1,3 @@
+class GetStuff
+    constructor: ->
+        @conn = 
